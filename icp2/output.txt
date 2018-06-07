@@ -1,0 +1,5 @@
+hi , 2
+this , 4
+is , 2
+python , 6
+lesson2 , 7
